@@ -4,7 +4,7 @@
 Implemented a program using Tensorflow to distinguish digits 0-9.
 File: dataset.py
 
-## 🎨 Task 2: Constraint Satisfaction Problems
+## Task 2: Constraint Satisfaction Problems
 Map coloring, ensuring that no two adjacent regions share the same color.
 
 ### (a) Australia Map Coloring
