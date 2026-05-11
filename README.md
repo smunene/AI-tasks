@@ -26,5 +26,10 @@ File: a_searchstrategy.py
 Implementation of a vacuum cleaner agent cleaning 2 locations satisfactoryily.
 File: vacuumcleaner.py
 
+## Task 3: Prolog
+Running a basic prolog family tree program and creating an extended family tree.
+File: fam_tree.pl
+
 ## Execution
-To run the Task 1 scripts, ensure you have TensorFlow installed
+To run the Task 1 scripts, ensure you have TensorFlow installed.
+To run Task 3, ensure prolog is downloaded and configured well.
