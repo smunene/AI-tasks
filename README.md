@@ -30,6 +30,10 @@ File: vacuumcleaner.py
 Running a basic prolog family tree program and creating an extended family tree.
 File: fam_tree.pl
 
+## Task 4: BFS and DFS
+A program that performs breadth first search and depth first search.
+Files: bfs.py and dfs.py
+
 ## Execution
 To run the Task 1 scripts, ensure you have TensorFlow installed.
 To run Task 3, ensure prolog is downloaded and configured well.
